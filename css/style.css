@@ -80,11 +80,13 @@ body {
 .projects__item:hover {
   -webkit-box-shadow: 2px 2px 12px #285453;
           box-shadow: 2px 2px 12px #285453;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
 }
 
 .projects__img {
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .footer {
