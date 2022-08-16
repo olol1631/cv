@@ -49,12 +49,6 @@ body {
   background: linear-gradient(0deg, white 0%, #e4d8d0 23%, #e5d8d1 39%, #e5d8d1 51%, #e8ddd7 60%, #f3ede9 84%, white 100%);
 }
 
-@media (min-width: 1140px) {
-  .about-me {
-    min-height: 100vh;
-  }
-}
-
 @media (max-width: 768px) {
   .about-me {
     margin-bottom: 50px;

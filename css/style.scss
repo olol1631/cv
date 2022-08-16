@@ -35,9 +35,6 @@ body{
     margin-bottom: 70px;
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(228,216,208,1) 23%, rgba(229,216,209,1) 39%, rgba(229,216,209,1) 51%, rgba(232,221,215,1) 60%, rgba(243,237,233,1) 84%, rgba(255,255,255,1) 100%);
-    @media  (min-width: 1140px){ 
-        min-height: 100vh;        
-    }
     @media  (max-width: 768px){ 
         margin-bottom: 50px;
         padding: 50px 0 30px;
